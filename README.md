@@ -1,4 +1,4 @@
-![logo](https://github.com/sumankumar86/sumankumar86/blob/main/download.jfif)
+![logo](https://www.section.io/engineering-education/javascript-particles-effect-with-tsparticles/linked-particles.gif)
 <h1 align="center">Hi 👋, I'm Suman Kumar Ghosh</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
